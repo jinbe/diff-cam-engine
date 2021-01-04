@@ -1,0 +1,19 @@
+{
+  "name": "diff-cam-engine",
+  "version": "1.0.0",
+  "description": "Based off git@github.com:lonekorean/diff-cam-engine.git",
+  "main": "diff-cam-engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinbe/diff-cam-engine.git"
+  },
+  "author": "Jin Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinbe/diff-cam-engine/issues"
+  },
+  "homepage": "https://github.com/jinbe/diff-cam-engine#readme"
+}
